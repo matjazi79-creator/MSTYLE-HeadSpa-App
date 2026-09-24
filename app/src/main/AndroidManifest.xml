@@ -3,7 +3,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:roundIcon="@drawable/ic_launcher"
-        android:label="M.STYLE SPA"
+        android:label="M.STYLE Head Spa"
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
